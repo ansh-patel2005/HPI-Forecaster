@@ -1,10 +1,10 @@
 # **HPI Forecaster**
-The aim of this project is to help aurora chasers plan ahead for viewing the aurora.
+The aim of this project is to assist aurora chasers plan ahead to view the aurora.
 
 ## **Feature**
-Both forecasters provide forecasts of 25 minutes beyond National Oceanic and Atmospheric Administration (NOAA)'s.
-* Simple HPI Forecaster: Provides moderate accuracy forecasts based on only data analysis.
-* Advanced HPI Forecaster: Provides moderate to high accuracy forecasts based on considering data analysis and factors impacting the northern lights including the Bt, Bz, solar wind speed and density.
+Both programs provide forecasts of 25 minutes beyond National Oceanic and Atmospheric Administration (NOAA)'s.
+* Simple HPI Forecaster: Provides moderately accurate forecasts based on exclusively data analysis.
+* Advanced HPI Forecaster: Provides forecasts with a moderate to high degree of accuracy by taking into account data analysis and the key factors that influence the auroras, including the Bt and Bz interplanetary magnetic field components, solar wind speed and density.
 
 ## **Clone**
 git clone https://github.com/travellercompsci/HPI-Forecaster.git
